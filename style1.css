@@ -1,0 +1,36 @@
+#col{
+    background-color: aliceblue;
+    width: 400;
+    height: 400;
+    border-radius: 10px;
+}
+body{
+    background-image: url(twitter.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#btn1{
+    margin:20px;
+    font-size: 15px;
+
+}
+#btn2{
+    margin: 20px;
+    font-size: 15px;
+}
+#score{
+    margin: 20px;;
+}
+#addbox{
+    margin: 20px;
+    width: 150px;
+    height: 25px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+#root{
+    font-size: 50px;
+    text-align: center;
+    }
+    

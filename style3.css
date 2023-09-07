@@ -1,0 +1,35 @@
+#root{
+font-size: 50px;
+text-align: center;
+}
+#cont{
+    width: 500;
+    height: 400;
+    background-color:aliceblue;
+    border-radius: 10px;
+}
+#sen{
+    width: 600;
+    height: 100;
+    background-color:beige;
+    border-radius: 10px;
+}
+#send{
+    border-radius: 10px;
+    font-size: 15px;
+}
+#btn5{
+    margin: 18px;
+}
+body{
+    background-image: url(twitter.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#ig{
+    width: 25px;
+}
+#root1{
+    font-size: 30px;
+}
